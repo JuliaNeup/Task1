@@ -25,4 +25,4 @@
 Тестирование производилось в следующем окружении:
 * Windows 10 Pro разрядность 64 бит
 * Java 11.0.10
-* IntelliJ IDEA Community Edition 2020.3
+* IntelliJ IDEA Community Edition 2020.3 
